@@ -1,0 +1,4 @@
+Calificación: 1.2/3
+No debe subir archivos .exe
+Las observaciones han sido ubicadas en cada archivo.
+
