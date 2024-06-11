@@ -1,3 +1,5 @@
+//FALTA ENUNCIADO
+//FALTA BUCLE
 #include<iostream>
 #include<time.h>
 #include<cstdlib>
