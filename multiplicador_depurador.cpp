@@ -1,3 +1,6 @@
+//FALTA ENUNCIADO
+//FALTAN CAPTURAS DE PANTALLA
+
 #include <iostream>
 using namespace std;
 
